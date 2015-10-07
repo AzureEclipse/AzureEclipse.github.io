@@ -10,4 +10,4 @@ HTML elements are the building blocks of web pages. HTML elements describe each 
 
 ![screen shot 2015-10-06 at 5 47 48 pm](https://cloud.githubusercontent.com/assets/10553730/10337588/c2ca378c-6cce-11e5-9c41-0e48fef53e67.jpeg)
 
-Right click and select "view image" if you need to.
+Right click and select "open in new tab" if you need to.
